@@ -1,0 +1,1 @@
+This script will output the base64 encoded and AES256 encrypted version of the script you want to encrypt. To de-obfuscate the script, you would need to reverse the process, first by base64 decoding the encoded script, then by AES256 decrypting the decoded script.
